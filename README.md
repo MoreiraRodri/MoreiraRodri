@@ -4,7 +4,7 @@ I'm from Belo Horizonte, Minas Gerais - Brazil and currently a Web Development s
 I have degree in Business Administration, Financial Management and a postgraduate degree in Strategic Purchasing Management.
 I'm in career transition, looking for new opportunities and challenges in the technology area.
 
-<a href="[https://www.linkedin.com/in/rodrigo-moreira-11a35721/]"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+[![Linkedin Badge](https://img.shields.io/badge/-[Texto do badge]-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/rodrigo-moreira-11a35721/])]([https://www.linkedin.com/in/rodrigo-moreira-11a35721/])
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moreirarodri&theme=blue-green&hide=stars,issues&show_icons=true)
 
