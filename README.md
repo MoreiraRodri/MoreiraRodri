@@ -29,8 +29,8 @@ I'm in career transition, looking for new opportunities and challenges in the te
 #
 <div align="center">
   <a href="https://github.com/moreirarodri">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=moreirarodri&theme=blue-green&show_icons=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moreirarodri&layout=compact&langs_count=7&theme=blue-green"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=moreirarodri&theme=blue-green&show_icons=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moreirarodri&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 
 <!--
