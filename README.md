@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moreirarodri&hide=stars,issues&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moreirarodri&theme=blue-green&hide=stars,issues&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moreirarodri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moreirarodri&layout=compact&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **MoreiraRodri/MoreiraRodri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
