@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moreirarodri&hide=stars,issues)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moreirarodri&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moreirarodri&hide=stars,issues&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moreirarodri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
