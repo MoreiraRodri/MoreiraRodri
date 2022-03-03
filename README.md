@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there/Olá! 👋
+
+Me chamo Rodrigo Moreira, sou de Belo Horizonte, Minas Gerais - Brasil e atualmente sou estudante de Desenvolvimento Web na Trybe.
+Sou formado em Administração de Empresas, Gestão Financeira e Pós Graduado em Gestão Estratégica de Compras. 
+
+[![Linkedin Badge](https://img.shields.io/badge/-[Texto do badge]-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[Link perfil no LinkedIn])]([https://www.linkedin.com/in/rodrigo-moreira-11a35721/])
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moreirarodri&theme=blue-green&hide=stars,issues&show_icons=true)
 
