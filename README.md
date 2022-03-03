@@ -1,7 +1,8 @@
-### Hi there/Olá! 👋
+### Hi there, my name is Rodrigo Moreira 👋
 
-Me chamo Rodrigo Moreira, sou de Belo Horizonte, Minas Gerais - Brasil e atualmente sou estudante de Desenvolvimento Web na Trybe.
-Sou formado em Administração de Empresas, Gestão Financeira e Pós Graduado em Gestão Estratégica de Compras. 
+I'm from Belo Horizonte, Minas Gerais - Brazil and currently a Web Development student at Trybe. 
+I have degree in Business Administration, Financial Management and a postgraduate degree in Strategic Purchasing Management.
+I'm in career transition, looking for new opportunities and challenges in the technology area.
 
 <a href="[https://www.linkedin.com/in/rodrigo-moreira-11a35721/]"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
