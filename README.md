@@ -2,11 +2,11 @@
 
 
 ## About me
-
-I'm from Belo Horizonte, Minas Gerais - Brazil and currently a Web Development student at Trybe. 
-I have degree in Business Administration, Financial Management and a postgraduate degree in Strategic Purchasing Management.
+<p>
+I'm from Belo Horizonte, Minas Gerais - Brazil and currently a Web Development student at Trybe.<br /> 
+I have degree in Business Administration, Financial Management and a postgraduate degree in Strategic Purchasing Management.<br /> 
 I'm in career transition, looking for new opportunities and challenges in the technology area.
-
+</p>
 
 ## Contact
 <div> 
