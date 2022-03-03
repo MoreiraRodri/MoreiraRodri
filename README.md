@@ -33,6 +33,7 @@ I'm in career transition, looking for new opportunities and challenges in the te
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moreirarodri&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
 
+![Snake animation](https://github.com/moreirarodri/moreirarodri/blob/output/github-contribution-grid-snake.svg)
 <!--
 **MoreiraRodri/MoreiraRodri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
